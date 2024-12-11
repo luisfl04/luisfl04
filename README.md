@@ -2,7 +2,7 @@
 
 Atualmente, sou estagiário estudante de **Tecnologia em Sistemas para Internet** (2º período) na [UESPI](https://uespi.br/) - Universidade Estadual Do Piauí.  
 
-💡 Possuo conhecimento em **Python**, **Bancos de dados relacionais**, e **Git**.
+💡 Possuo conhecimento em **Python**,**java**, **Bancos de dados relacionais**, e **Git**.
 
 **Minhas redes sociais:**
 

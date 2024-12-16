@@ -1,6 +1,6 @@
 # 👋 Olá, seja bem vindo, me chamo Luis felipe!
 
-Atualmente, sou estagiário estudante de **Tecnologia em Sistemas para Internet** (2º período) na [UESPI](https://uespi.br/) - Universidade Estadual Do Piauí.  
+Atualmente, sou estudante de **Tecnologia em Sistemas para Internet** (2º período) na [UESPI](https://uespi.br/) - Universidade Estadual Do Piauí.  
 
 💡 Possuo conhecimento em **Python**, **java**, **Bancos de dados relacionais**, e **Git**.
 

@@ -1,4 +1,4 @@
-# 👋 Olá, seja bem vindo, me chamo Luis felipe!
+# 👋 Olá, seja bem vindo, me chamo Luis Felipe!
 
 Atualmente, sou estudante de **Tecnologia em Sistemas para Internet** (2º período) na [UESPI](https://uespi.br/) - Universidade Estadual Do Piauí.  
 
